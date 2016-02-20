@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 qqq
+>>>>>>> new
 sss
 ddd
